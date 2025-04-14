@@ -1,0 +1,846 @@
+Is it an aardvark?
+Is it an air conditioner?
+Is it an air mattress?
+Is it an airbag?
+Is it an airboat?
+Is it an aircraft carrier?
+Is it an airplane?
+Is it an album?
+Is it an alligator?
+Is it an altar?
+Is it an aluminum foil?
+Is it an amber?
+Is it an ambulance?
+Is it an ankle?
+Is it an anklet?
+Is it an anteater?
+Is it an appetizer?
+Is it an apple?
+Is it an arch?
+Is it an arrow?
+Is it an artichoke?
+Is it an arugula?
+Is it an ashtray?
+Is it an avocado?
+Is it a backgammon?
+Is it a backpack?
+Is it a backscratcher?
+Is it a badger?
+Is it a ballot box?
+Is it a banner?
+Is it a barbell?
+Is it a barcode?
+Is it a barrel?
+Is it a barrette?
+Is it a baseball bat?
+Is it a baseball glove?
+Is it a bassinet?
+Is it a bat?
+Is it a bathtub?
+Is it a baton?
+Is it a bazooka?
+Is it a bean?
+Is it a beanbag?
+Is it a beaver?
+Is it a bed?
+Is it a beehive?
+Is it a beer?
+Is it a belt buckle?
+Is it a bench?
+Is it a berry?
+Is it a bike?
+Is it a bikini?
+Is it a binoculars?
+Is it a birdcage?
+Is it a birdhouse?
+Is it a birthday cake?
+Is it a blackberry?
+Is it a blinder?
+Is it a blindfold?
+Is it a blowfish?
+Is it a blowgun?
+Is it a blowtorch?
+Is it a blueberry?
+Is it a boar?
+Is it a board?
+Is it a board game?
+Is it a bobsled?
+Is it a bok choy?
+Is it a bolt?
+Is it a book?
+Is it a bookshelf?
+Is it a bottle opener?
+Is it a boulder?
+Is it a bowler hat?
+Is it a bowling ball?
+Is it a bowtie?
+Is it a boxing gloves?
+Is it a bracket?
+Is it a brake?
+Is it a branch?
+Is it a brass knuckles?
+Is it a breadstick?
+Is it a breakfast?
+Is it a breathalyzer?
+Is it a briefcase?
+Is it a brooch?
+Is it a broom?
+Is it a brussels sprouts?
+Is it a bubble wrap?
+Is it a buckle?
+Is it a bug?
+Is it a bull?
+Is it a bulldozer?
+Is it a bulletin board?
+Is it a bulletproof vest?
+Is it a bungee?
+Is it a bunkbed?
+Is it a butterfly?
+Is it a cabbage?
+Is it a cabinet?
+Is it a cable?
+Is it a cake mix?
+Is it a calamari?
+Is it a calculator?
+Is it a calzone?
+Is it a camel?
+Is it a camera lens?
+Is it a can opener?
+Is it a cane?
+Is it a canister?
+Is it a cannon?
+Is it a cannonball?
+Is it a canoe?
+Is it a canvas?
+Is it a cape?
+Is it a car?
+Is it a car seat?
+Is it a cardigan?
+Is it a cashew?
+Is it a catapult?
+Is it a catfish?
+Is it a cauliflower?
+Is it a caviar?
+Is it a cd player?
+Is it a celery?
+Is it a cellphone?
+Is it a cement mixer?
+Is it a cereal?
+Is it a chain?
+Is it a chainsaw?
+Is it a chalice?
+Is it a chalk?
+Is it a champagne?
+Is it a charger?
+Is it a chariot?
+Is it a checkbook?
+Is it a chessboard?
+Is it a chest?
+Is it a chicken wire?
+Is it a chickpea?
+Is it a chihuahua?
+Is it a chili?
+Is it a chime?
+Is it a chip?
+Is it a chisel?
+Is it a chocolate?
+Is it a chopsticks?
+Is it a christmas card?
+Is it a cilantro?
+Is it a clarinet?
+Is it a clay?
+Is it a cleaver?
+Is it a clipboard?
+Is it a clipper?
+Is it a cloak?
+Is it a clock?
+Is it a closet?
+Is it a clothesline?
+Is it a clove?
+Is it a clover?
+Is it a coal?
+Is it a coat rack?
+Is it a cobra?
+Is it a cockatoo?
+Is it a cocoon?
+Is it a coffee?
+Is it a coffee bean?
+Is it a coffee pot?
+Is it a coffin?
+Is it a coin?
+Is it a coleslaw?
+Is it a column?
+Is it a comb?
+Is it a combination lock?
+Is it a comic book?
+Is it a compost?
+Is it a computer?
+Is it a cookie sheet?
+Is it a cooler?
+Is it a cord?
+Is it a cordon bleu?
+Is it a corkboard?
+Is it a corkscrew?
+Is it a cornbread?
+Is it a cornhusk?
+Is it a cornmeal?
+Is it a cornucopia?
+Is it a corset?
+Is it a costume?
+Is it a cot?
+Is it a couch?
+Is it a cougar?
+Is it a counter?
+Is it a cow?
+Is it a coyote?
+Is it a cracker?
+Is it a crank?
+Is it a crayfish?
+Is it a crayon?
+Is it a cream cheese?
+Is it a creme brulee?
+Is it a crib?
+Is it a crossbow?
+Is it a crucifix?
+Is it a cucumber?
+Is it a curling iron?
+Is it a curtain?
+Is it a cushion?
+Is it a cutting board?
+Is it a dagger?
+Is it a dalmatian?
+Is it a dandelion?
+Is it a dart?
+Is it a deer?
+Is it a defibrillator?
+Is it a desk?
+Is it a dessert?
+Is it a detonator?
+Is it a dial?
+Is it a diamond?
+Is it a diaper?
+Is it a dish?
+Is it a dishwasher?
+Is it a doily?
+Is it a doll?
+Is it a dollhouse?
+Is it a dolphin?
+Is it a doorhandle?
+Is it a doorknob?
+Is it a doorknocker?
+Is it a drain?
+Is it a dresser?
+Is it a drumstick?
+Is it a dryer?
+Is it a duct tape?
+Is it a dumbbell?
+Is it a dumpling?
+Is it a dumpster?
+Is it a dynamite?
+Is it an ear?
+Is it an easter egg?
+Is it an eclair?
+Is it an eel?
+Is it an egg roll?
+Is it an eggbeater?
+Is it an eggnog?
+Is it an eggplant?
+Is it an elbow?
+Is it an elephant?
+Is it an emerald?
+Is it an enchilada?
+Is it an engine?
+Is it an espresso?
+Is it an exhaust pipe?
+Is it an extinguisher?
+Is it an eye patch?
+Is it an eyedropper?
+Is it an eyepiece?
+Is it a face?
+Is it a fan?
+Is it a fast food?
+Is it a fencepost?
+Is it a ferret?
+Is it a file?
+Is it a filing cabinet?
+Is it a film?
+Is it a filter?
+Is it a finger?
+Is it a fire alarm?
+Is it a fire hydrant?
+Is it a fire pit?
+Is it a fireplace?
+Is it a fish?
+Is it a fishhook?
+Is it a flamethrower?
+Is it a flan?
+Is it a flatiron?
+Is it a floss?
+Is it a flour?
+Is it a fly?
+Is it a folder?
+Is it a fondue?
+Is it a food processor?
+Is it a football helmet?
+Is it a footrest?
+Is it a fountain pen?
+Is it a fox?
+Is it a frame?
+Is it a freezer?
+Is it a french fries?
+Is it a frisbee?
+Is it a frog?
+Is it a fruitcake?
+Is it a fungus?
+Is it a fuse?
+Is it a gallows?
+Is it a garbage?
+Is it a garbage truck?
+Is it a gavel?
+Is it a gearshift?
+Is it a gel?
+Is it a gem?
+Is it a generator?
+Is it a gift?
+Is it a ginger?
+Is it a glass?
+Is it a glasses?
+Is it a globe?
+Is it a go-kart?
+Is it a goat?
+Is it a goblet?
+Is it a golf cart?
+Is it a golf club?
+Is it a goose?
+Is it a gopher?
+Is it a gorilla?
+Is it a graffiti?
+Is it a grain?
+Is it a granite?
+Is it a granola?
+Is it a grapefruit?
+Is it a gravel?
+Is it a gravy?
+Is it a green beans?
+Is it a grits?
+Is it a groundhog?
+Is it a guardrail?
+Is it a guinea pig?
+Is it a guitar?
+Is it a gun?
+Is it a gurney?
+Is it a gyroscope?
+Is it a hairbrush?
+Is it a hairdryer?
+Is it a hairspray?
+Is it a hamburger?
+Is it a hammer?
+Is it a hand?
+Is it a handbrake?
+Is it a handcuff?
+Is it a handlebar?
+Is it a hard disk?
+Is it a harmonica?
+Is it a hatchet?
+Is it a hay?
+Is it a headrest?
+Is it a headset?
+Is it a hearing aid?
+Is it a hedgehog?
+Is it a helicopter?
+Is it a highchair?
+Is it a hockey stick?
+Is it a hoe?
+Is it a home plate?
+Is it a honeycomb?
+Is it a honeypot?
+Is it a hook?
+Is it a hopscotch?
+Is it a horse?
+Is it a hot chocolate?
+Is it a hotplate?
+Is it a hovercraft?
+Is it a humvee?
+Is it a hydrant?
+Is it a hyena?
+Is it an ice?
+Is it an ice pack?
+Is it an icepick?
+Is it an iron?
+Is it an ironing board?
+Is it a jack?
+Is it a jackhammer?
+Is it a jalapeno?
+Is it a jam?
+Is it a javelin?
+Is it a jeans?
+Is it a jeep?
+Is it a jersey?
+Is it a jigsaw puzzle?
+Is it a joystick?
+Is it a juice?
+Is it a juicer?
+Is it a jukebox?
+Is it a jumpsuit?
+Is it a kale?
+Is it a kebab?
+Is it a keg?
+Is it a ketchup?
+Is it a kettle?
+Is it a kilt?
+Is it a kimono?
+Is it a kiwi?
+Is it a kneepad?
+Is it a knife?
+Is it a knitting?
+Is it a ladder?
+Is it a ladle?
+Is it a lamb?
+Is it a lanyard?
+Is it a laptop?
+Is it a lasagna?
+Is it a latte?
+Is it a lava?
+Is it a lavender?
+Is it a lawnmower?
+Is it a lectern?
+Is it a leech?
+Is it a leg?
+Is it a leggings?
+Is it a lego?
+Is it a lemon?
+Is it a lemonade?
+Is it a leotard?
+Is it a letter opener?
+Is it a lettuce?
+Is it a license plate?
+Is it a light switch?
+Is it a lighter?
+Is it a lightning bug?
+Is it a limousine?
+Is it a lingerie?
+Is it a lipstick?
+Is it a llama?
+Is it a lobster?
+Is it a lock?
+Is it a log?
+Is it a loveseat?
+Is it a lumber?
+Is it a lunchbox?
+Is it a macadamia?
+Is it a macaroni?
+Is it a machine gun?
+Is it a maggot?
+Is it a magnet?
+Is it a mailbox?
+Is it a mallet?
+Is it a manatee?
+Is it a mandolin?
+Is it a mannequin?
+Is it a mantle?
+Is it a map?
+Is it a maple syrup?
+Is it a marble?
+Is it a margarita?
+Is it a marker?
+Is it a mashed potato?
+Is it a mattress?
+Is it a measuring cup?
+Is it a meat?
+Is it a meat grinder?
+Is it a meatloaf?
+Is it a medal?
+Is it a meerkat?
+Is it a megaphone?
+Is it a memory stick?
+Is it a metal detector?
+Is it a microscope?
+Is it a microwave?
+Is it a milk?
+Is it a milkshake?
+Is it a minivan?
+Is it a mint?
+Is it a missile?
+Is it a mixer?
+Is it a modem?
+Is it a money?
+Is it a mongoose?
+Is it a monkey?
+Is it a mop?
+Is it a mosquito?
+Is it a mosquito net?
+Is it a moth?
+Is it a mouse?
+Is it a mousepad?
+Is it a mousse?
+Is it a mud?
+Is it a mullet?
+Is it a mussel?
+Is it a mustard?
+Is it a nacho?
+Is it a nail clippers?
+Is it a nail file?
+Is it a napkin?
+Is it a navel?
+Is it a neck?
+Is it a nest?
+Is it a net?
+Is it a nightstand?
+Is it a noisemaker?
+Is it a noodle?
+Is it a notebook?
+Is it a notepad?
+Is it an oar?
+Is it an oatmeal?
+Is it an odometer?
+Is it an oilcan?
+Is it an okra?
+Is it an olive?
+Is it an orange?
+Is it an orangutan?
+Is it an orchid?
+Is it an otter?
+Is it an ottoman?
+Is it an oven?
+Is it an overalls?
+Is it an oyster?
+Is it a padlock?
+Is it a pan?
+Is it a panda?
+Is it a pantyhose?
+Is it a papaya?
+Is it a paper?
+Is it a paper bag?
+Is it a paper plate?
+Is it a paper towel?
+Is it a paperweight?
+Is it a parsley?
+Is it a pasta?
+Is it a payphone?
+Is it a peanut butter?
+Is it a pedal?
+Is it a peg?
+Is it a pencil sharpener?
+Is it a pendulum?
+Is it a penholder?
+Is it a penlight?
+Is it a pennant?
+Is it a pepper mill?
+Is it a pepper?
+Is it a pepperoni?
+Is it a pesto?
+Is it a pet food?
+Is it a phone booth?
+Is it a photo booth?
+Is it a piano?
+Is it a pickax?
+Is it a pickle?
+Is it a pie?
+Is it a pig?
+Is it a piggy bank?
+Is it a piglet?
+Is it a pinball?
+Is it a pita?
+Is it a pitcher?
+Is it a pitchfork?
+Is it a pizza?
+Is it a platypus?
+Is it a pliers?
+Is it a pocketknife?
+Is it a poinsettia?
+Is it a poker?
+Is it a polaroid?
+Is it a police car?
+Is it a pomegranate?
+Is it a porcupine?
+Is it a possum?
+Is it a poster?
+Is it a pothole?
+Is it a power line?
+Is it a praying mantis?
+Is it a printer?
+Is it a prune?
+Is it a puddle?
+Is it a pumpkin?
+Is it a punch?
+Is it a punching bag?
+Is it a puppet?
+Is it a quiche?
+Is it a quilt?
+Is it a raccoon?
+Is it a racehorse?
+Is it a radar?
+Is it a radiator?
+Is it a rain gauge?
+Is it a raincoat?
+Is it a raisin?
+Is it a rake?
+Is it a raspberry?
+Is it a ratchet?
+Is it a rattle?
+Is it a rattlesnake?
+Is it a ravioli?
+Is it a razor blade?
+Is it a ready meal?
+Is it a rearview mirror?
+Is it a record?
+Is it a recorder?
+Is it a red carpet?
+Is it a refrigerator?
+Is it a revolving door?
+Is it a rhubarb?
+Is it a ribbon?
+Is it a rice?
+Is it a rifle?
+Is it a ring?
+Is it a roadsweeper?
+Is it a robe?
+Is it a rocket?
+Is it a rocking chair?
+Is it a roller coaster?
+Is it a rollerblade?
+Is it a rollerskate?
+Is it a roof rack?
+Is it a rooster?
+Is it a rosary?
+Is it a rose?
+Is it a rubber band?
+Is it a ruby?
+Is it a rug?
+Is it a ruler?
+Is it a saffron?
+Is it a sail?
+Is it a sailboat?
+Is it a salad?
+Is it a sandal?
+Is it a sandbox?
+Is it a sauerkraut?
+Is it a saw?
+Is it a saxophone?
+Is it a scale?
+Is it a school bus?
+Is it a scissors?
+Is it a scooter?
+Is it a scoreboard?
+Is it a scorpion?
+Is it a scrabble?
+Is it a scrambled egg?
+Is it a screen?
+Is it a screw?
+Is it a sea urchin?
+Is it a seagull?
+Is it a seaplane?
+Is it a seismograph?
+Is it a sewage?
+Is it a sewing kit?
+Is it a sewing machine?
+Is it a shark?
+Is it a shaving cream?
+Is it a shawl?
+Is it a shears?
+Is it a sheet?
+Is it a shelf?
+Is it a shell?
+Is it a shield?
+Is it a shoe polish?
+Is it a shoehorn?
+Is it a shopping basket?
+Is it a shortbread?
+Is it a shovel?
+Is it a shower curtain?
+Is it a showerhead?
+Is it a shredder?
+Is it a shutter?
+Is it a sickle?
+Is it a sidecar?
+Is it a skateboard?
+Is it a skewer?
+Is it a ski boots?
+Is it a ski pole?
+Is it a skin?
+Is it a skull?
+Is it a slime?
+Is it a slingshot?
+Is it a slot machine?
+Is it a smoke alarm?
+Is it a smoothie?
+Is it a snowboard?
+Is it a snowmobile?
+Is it a snowplow?
+Is it a snowsuit?
+Is it a soda?
+Is it a sofa bed?
+Is it a soldering iron?
+Is it a sombrero?
+Is it a sonogram?
+Is it a souffle?
+Is it a soup?
+Is it a soy sauce?
+Is it a space shuttle?
+Is it a spam?
+Is it a spareribs?
+Is it a spark plug?
+Is it a spatula?
+Is it a spear?
+Is it a speedboat?
+Is it a speedometer?
+Is it a spider?
+Is it a spinach?
+Is it a spring roll?
+Is it a springboard?
+Is it a squash?
+Is it a squirrel?
+Is it a stair?
+Is it a staple gun?
+Is it a stapler?
+Is it a station wagon?
+Is it a steak?
+Is it a steamroller?
+Is it a step stool?
+Is it a stereo?
+Is it a stethoscope?
+Is it a stew?
+Is it a sticker?
+Is it a stiletto?
+Is it a stir fry?
+Is it a stirrup?
+Is it a stomach?
+Is it a stool?
+Is it a stopwatch?
+Is it a straightjacket?
+Is it a strawberry?
+Is it a string cheese?
+Is it a stroller?
+Is it a submarine?
+Is it a subway?
+Is it a suit?
+Is it a suitcase?
+Is it a sunglasses?
+Is it a surfboard?
+Is it a sushi?
+Is it a swan?
+Is it a sweater?
+Is it a sweatsuit?
+Is it a sweet potato?
+Is it a swimsuit?
+Is it a swing?
+Is it a swordfish?
+Is it a syringe?
+Is it a tab?
+Is it a table?
+Is it a tackle?
+Is it a tadpole?
+Is it a tag?
+Is it a tamale?
+Is it a tape?
+Is it a tape measure?
+Is it a tape recorder?
+Is it a taxi?
+Is it a tea?
+Is it a teddy bear?
+Is it a teepee?
+Is it a telegraph?
+Is it a telephone pole?
+Is it a television?
+Is it a tennis ball?
+Is it a thermos?
+Is it a thermostat?
+Is it a thimble?
+Is it a thorn?
+Is it a thread?
+Is it a throne?
+Is it a thumb?
+Is it a ticktacktoe?
+Is it a tie?
+Is it a tiger?
+Is it a timer?
+Is it a tinsel?
+Is it a tiramisu?
+Is it a toaster?
+Is it a toaster oven?
+Is it a toe?
+Is it a toga?
+Is it a toilet paper?
+Is it a tomato?
+Is it a tomato sauce?
+Is it a tongs?
+Is it a tool?
+Is it a tooth?
+Is it a toothpaste?
+Is it a top hat?
+Is it a torch?
+Is it a tortellini?
+Is it a tortilla?
+Is it a tostada?
+Is it a totem pole?
+Is it a touchpad?
+Is it a towel rack?
+Is it a toy?
+Is it a tractor?
+Is it a traffic light?
+Is it a train?
+Is it a train car?
+Is it a trampoline?
+Is it a trapdoor?
+Is it a trashcan?
+Is it a tree?
+Is it a tree trunk?
+Is it a tricycle?
+Is it a tripod?
+Is it a trophy?
+Is it a trumpet?
+Is it a trunk?
+Is it a tuning fork?
+Is it a tupperware?
+Is it a turbine?
+Is it a turkey?
+Is it a turnstile?
+Is it a tuxedo?
+Is it an ukulele?
+Is it an uniform?
+Is it a vegetable?
+Is it a veil?
+Is it a videocassette?
+Is it a videogame?
+Is it a violin?
+Is it a vise?
+Is it a wafer?
+Is it a waffle iron?
+Is it a wallet?
+Is it a wallpaper?
+Is it a wand?
+Is it a washboard?
+Is it a washing machine?
+Is it a wasp?
+Is it a water bottle?
+Is it a waterwheel?
+Is it a wax paper?
+Is it a weasel?
+Is it a wedding cake?
+Is it a wedge?
+Is it a weed?
+Is it a wetsuit?
+Is it a whale?
+Is it a wheat?
+Is it a wheel?
+Is it a wheelchair?
+Is it a whipped cream?
+Is it a whistle?
+Is it a whoopee cushion?
+Is it a windowsill?
+Is it a wine?
+Is it a wine cooler?
+Is it a wineglass?
+Is it a wire cutters?
+Is it a wok?
+Is it a wolf?
+Is it a worm?
+Is it a wrapping paper?
+Is it a wrist?
+Is it a xylophone?
+Is it a yacht?
+Is it a yarn?
+Is it a yogurt?
+Is it a yolk?
+Is it a zebra?
+Is it a zipper?

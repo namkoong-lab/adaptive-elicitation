@@ -1,3 +1,14 @@
+# raw data 
+data/raw/eedi/*.csv 
+data/raw/opinion_qa/
+data/raw/twentyq/*.csv 
+
+# processed data 
+data/processed/eedi/*.json
+data/processed/opinion_qa/*.json
+data/processed/twentyq_noobj/*.json
+data/processed/twentyq_obj/*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

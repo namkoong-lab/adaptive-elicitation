@@ -1,0 +1,17 @@
+model_path: "/scratch/jw4209/hfmodels/Llama-3.1-8B"
+model_name: "Llama-3.1-8B"
+epochs: 600000
+batch_size: 4
+block_size: 1024
+lr: 0.0001
+betas: [0.9, 0.95]
+dtype: "float16"
+weight_decay: 0.1
+seed: 0
+eval_interval: 200
+grad_clip: 1.0
+peft: True 
+r: 8
+lora_alpha: 24
+lora_dropout: 0.1
+target_modules: ["q_proj", "v_proj"]
