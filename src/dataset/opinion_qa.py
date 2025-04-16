@@ -72,7 +72,6 @@ def process_data(
     all_answers
 ):
     data_dir = Path(root_data_dir) / "raw" / "opinion_qa"
-    data_dir.mkdir(parents=True, exist_ok=True)
     response_matrix, info_df, mapping_dicts = load_opinion_qa(data_dir)
     pid_to_name = mapping_dicts["pid_to_name"]
     qid_to_name = mapping_dicts["qid_to_name"]

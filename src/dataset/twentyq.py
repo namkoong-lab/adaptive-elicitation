@@ -45,7 +45,6 @@ def process_data(
     
     #get questions that do not involve objects
     data_dir = Path(root_data_dir) / "raw" / "twentyq"
-    data_dir.mkdir(parents=True, exist_ok=True)
     with open(data_dir / noobj_qs, 'r') as f:
         questions = f.read().split('\n')
 

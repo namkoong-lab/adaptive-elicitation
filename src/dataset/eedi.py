@@ -74,7 +74,6 @@ def filter_students(student_data, total_qs, num_filtered_qs):
 
 def process_data(root_data_dir, total_qs, num_filtered_qs):
     data_dir = Path(root_data_dir) / "raw" / "eedi"
-    data_dir.mkdir(parents=True, exist_ok=True)
     question_metadata, subject_metadata, train, test, question_text = load_eedi(data_dir)
     student_data = pd.concat([train, test], axis=0)
     student_idx, question_idx = filter_students(student_data, total_qs, num_filtered_qs)
