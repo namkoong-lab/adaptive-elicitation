@@ -131,3 +131,16 @@ python scripts/active/run_eval.py \
 - `--seed`: seed to control randomization. 
 - `--proportion`: threshold that filters questions based on answer rarity. For example, $1.0$ includes all questions while $0.1$ includes questions with answers that less than $10\%$ of the population chose. 
 
+---
+
+### Cite Our Work 
+
+```
+@article{wang2025adaptive,
+  title={Adaptive Elicitation of Latent Information Using Natural Language},
+  author={Wang, Jimmy and Zollo, Thomas and Zemel, Richard and Hongseok, Namkoong},
+  journal={arXiv preprint arXiv:2504.04204},
+  year={2025}
+}
+```
+
